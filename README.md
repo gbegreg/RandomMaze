@@ -9,6 +9,8 @@ Generate a random maze with Delphi
 
 The uLabyrinthe.pas allows you to generate random maze. You can use it in 2D or 3D.
 
+You will find another similar but more complete project (full game against the computer and A* pathfinding implementation) : https://github.com/gbegreg/FunMaze
+
 [![Labyrinthe 3D](http://img.youtube.com/vi/i7F4KieF1Lo/0.jpg)](https://www.youtube.com/watch?v=i7F4KieF1Lo)
 
 (click the image to see the Youtube video)
